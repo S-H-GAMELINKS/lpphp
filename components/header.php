@@ -11,7 +11,7 @@
                     メニュー
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">トップ</a>
+                    <a class="dropdown-item" href="#top">トップ</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">概要</a>
                     <div class="dropdown-divider"></div>
