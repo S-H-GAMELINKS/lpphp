@@ -9,6 +9,7 @@
     <head>
     <body>
         <?php include("components/header.php"); ?>
+        <?php include("components/carousel.php"); ?>
         <?php include("components/jumbotron.php"); ?>
         <h1>Hello Chat!</h1>
     </body>
