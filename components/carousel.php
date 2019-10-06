@@ -1,4 +1,4 @@
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide mt-5" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -6,21 +6,18 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: First slide">
-                <title>Placeholder</title>
-                <rect fill="#777" width="100%" height="100%" /><text fill="#555" dy=".3em" x="50%" y="50%">First slide</text>
+            <svg class="bd-placeholder-img bd-placeholder-img-lg image-fluid d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: First slide">
+                <rect fill="blue" width="100%" height="100%" />
             </svg>
         </div>
         <div class="carousel-item">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Second slide">
-                <title>Placeholder</title>
-                <rect fill="#666" width="100%" height="100%" /><text fill="#444" dy=".3em" x="50%" y="50%">Second slide</text>
+            <svg class="bd-placeholder-img bd-placeholder-img-lg image-fluid d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Second slide">
+                <rect fill="yellow" width="100%" height="100%" />
             </svg>
         </div>
         <div class="carousel-item">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Third slide">
-                <title>Placeholder</title>
-                <rect fill="#555" width="100%" height="100%" /><text fill="#333" dy=".3em" x="50%" y="50%">Third slide</text>
+            <svg class="bd-placeholder-img bd-placeholder-img-lg image-fluid d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Third slide">
+                <rect fill="red" width="100%" height="100%" />
             </svg>
         </div>
     </div>
